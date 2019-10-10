@@ -2,8 +2,8 @@
 
 namespace Eboye\Gitlog\Http\Middleware;
 
-use Laravel\Nova\Nova;
 use Eboye\Gitlog\Gitlog;
+use Laravel\Nova\Nova;
 
 class Authorize
 {

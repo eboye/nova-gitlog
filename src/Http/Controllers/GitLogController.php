@@ -2,10 +2,8 @@
 
 namespace Eboye\Gitlog\Http\Controllers;
 
-use Illuminate\Contracts\View\Factory;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Carbon;
-use Illuminate\View\View;
 
 class GitLogController extends Controller
 {

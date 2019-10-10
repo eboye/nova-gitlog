@@ -37,8 +37,8 @@
 </template>
 
 <script>
-    import LineChart from './LineChart.js';
     import Gravatar  from 'vue-gravatar';
+    import LineChart from './LineChart.js';
 
     export default {
         components: {
